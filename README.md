@@ -1,2 +1,0 @@
-# nvx-gfx
-NVX ICONS
