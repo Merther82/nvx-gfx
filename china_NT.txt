@@ -1,0 +1,300 @@
+# Try to coordinate with others interested in this nation to ensure all information is accurate and codified. #
+Rename this file to “country_name_NT.txt” where “country_name” is changed to the name of the country.
+
+Country Name: People's Republic of China
+
+
+### Political Party Names and Popularities ###
+Entirely fill out year 2000 and optionally year 2016.
+If a respective party does not exist, put “X” as the name. If you do not know the name of a certain party, leave the name blank.
+National names are what the official country name becomes when led by that ideology.
+Place the shortened party name in brackets after the full name, if one exists. E.g. Alternative für Deutschland [AfD] or Liberal Democrats [Lib Dems]
+
+Islamist: 
+	National Name: 
+	Party Leader 2000: 
+	% 2000: 
+	Party Leader 2016: 
+	% 2016: 
+Fascist: 
+	National Name: 
+	Party Leader 2000: 
+	% 2000: 
+	Party Leader 2016: 
+	% 2016: 
+Nationalist: 
+	National Name: 
+	Party Leader 2000: 
+	% 2000: 
+	Party Leader 2016: 
+	% 2016: 
+Monarchist: 
+	National Name: 
+	Party Leader 2000: 
+	% 2000: 
+	Party Leader 2016: 
+	% 2016: 
+Reactionary: 
+	National Name: 
+	Party Leader 2000: 
+	% 2000: 
+	Party Leader 2016: 
+	% 2016: 
+Conservative: 
+	National Name: 
+	Party Leader 2000: 
+	% 2000: 
+	Party Leader 2016: 
+	% 2016: 
+Libertarian: 
+	National Name: 
+	Party Leader 2000: 
+	% 2000: 
+	Party Leader 2016: 
+	% 2016: 
+Social Liberal: 
+	National Name: 
+	Party Leader 2000: 
+	% 2000: 
+	Party Leader 2016: 
+	% 2016: 
+Social Democrat: 
+	National Name: 
+	Party Leader 2000: 
+	% 2000: 
+	Party Leader 2016: 
+	% 2016: 
+Progressive: 
+	National Name: 
+	Party Leader 2000: 
+	% 2000: 
+	Party Leader 2016: 
+	% 2016: 
+Democratic Socialist: 
+	National Name: 
+	Party Leader 2000: 
+	% 2000: 
+	Party Leader 2016: 
+	% 2016: 
+Communist: 
+	National Name: 
+	Party Leader 2000: 
+	% 2000: 
+	Party Leader 2016: 
+	% 2016: 
+
+
+### Vehicles and Equipment ###
+All years prior to 2020 are required, you may leave out future equipment.
+
+# Infantry Equipment #
+1980: 
+2000: 
+2006: 
+2012: 
+2020: 
+2030: 
+
+## Armor ##
+Must include the nicknames and role designations, e.g. “M551 Sheridan AR/AAV” not “M551 Sheridan” or just “M551”
+If a vehicle’s name is generally abbreviated, type the full name first, then type the abbreviated name after a semicolon, e.g. “Medium Tactical Vehicle Replacement; MTVR”
+
+# Motorized #
+Motorized: Dongfeng EQ2102
+Motorized Rocket Artillery: WM-80 MRL
+
+# Light Tanks/Tank Destroyers #
+1980: 
+2000: 
+2006: 
+2012: 
+2018: 
+2024: 
+2030: 
+
+# Main Battle Tanks #
+1960: 
+1980: 
+2000: 
+2006: 
+2012: 
+2018: 
+2024: 
+2030: 
+
+# Mechanized #
+1980: 
+2000: 
+2006: 
+2012: 
+2018: 
+2024: 
+2030: 
+
+# Light Mechanized #
+1980: 
+2000: 
+2006: 
+2012: 
+2018: 
+2024: 
+2030: 
+
+## Artillery ##
+The artillery section is not required but recommended if you can place accurate equipment names to dates. The tech icons for these will likely never be replaced with nation-specific icons.
+
+# Anti-Air #
+2000: 
+2008: 
+2016: 
+2024: 
+2032: 
+
+# Artillery #
+1980: 
+2004: 
+2012: 
+2020: 
+
+# Rocket Artillery #
+2000:
+2020: 
+
+# Anti-Tank #
+2000: 
+2008: 
+2016: 
+2024: 
+2032: 
+
+
+### Air ###
+Include the full name of air equipment, with manufacturer name (where possible), e.g. “Lockheed P-2 Neptune” not “P-2 Neptune” or just “P-2”
+Carrier planes are optional, as most countries do not have them.
+
+# Close Air Support #
+1960: NAMC Nanchang Q-5
+1980: XAC Xian JH-7
+2006: GAIEC Guizhou JL-9
+
+# Carrier Close Air Support #
+1960: 
+1980: 
+2006: 
+
+# Multirole Fighters #
+1960: AVIC-SAC Shenyang J-5
+1980: AVIC-SAC Shenyang J-8
+2000: AVIC-SAC Shenyang J-8C
+2006: AVIC-SAC Shenyang J-11
+2012: AVIC-CAIG Chengdu J-10B
+2018: AVIC-SAC Shenyang J-16
+2024: AVIC-CAIG Chengdu J-20
+2030: AVIC-SAC Shenyang J-31
+
+# Carrier Multirole Fighters #
+1960: 
+1980: 
+2000: 
+2006: 
+2012: 
+2018: 
+2024: 
+2030: 
+
+# Maritime Patrol #
+1960: 
+1980: 
+2000: 
+2006: 
+2012: 
+2024: 
+
+# Carrier Maritime Patrol #
+1960: 
+1980: 
+2000: 
+2006: 
+2012: 
+2024: 
+
+# Strategic Bombers #
+1960: 
+1980: 
+2006: 
+2018: 
+2024: 
+
+# Tactical Bombers/Drones #
+2000: 
+2006: 
+2018: 
+2024: 
+2030: 
+
+# Transport #
+2000: 
+2012: 
+
+
+### Military Units ###
+If there are seemingly too many units or strange/over-powered units, I will require a citation as to the existence of these forces.
+
+## Division Templates ##
+Location of where the divisions and aircraft are stationed will not be considered, as once the game starts, everything can be redeployed where necessary. Only nations which start the game at war require division locations.
+If you do not use exact terms for units and battalions, I will be left to assume what you mean.
+Copy and fill in the following as many times as necessary. Don’t add non-combat units, such as logistical divisions.
+
+“template name”
+Line Battalions: 
+Support Companies: 
+
+## Starting Army Units ##
+Copy and fill in the following as many times as necessary. Place (SF) after [template name] if the unit is special forces.
+
+# 2000 #
+Units:
+“unit_name” [template_name]
+
+# 2016 (This one is optional, the 2016 start date is not a high priority right now.) #
+Units:
+“unit_name” [template_name]
+
+
+## Air Units ##
+Unit type is either CAS, Fighter, MPA, Bomber, Drone, or Transport (Use the prefix “CV” for carrier versions). Year is which year from the tech tree this aircraft comes from, and #number is the total number of these planes owned by the country.
+
+# 2000 #
+Units:
+“unit_type” [year] #number
+
+# 2016 (This one is optional, the 2016 start date is not a high priority right now.) #
+Units:
+“unit_type” [year] #number
+
+
+### Generals and Admirals ###
+All I need for these are the single picture with the name formatted correctly. The image size must be 156x210. Please crop it yourself. The picture must be a real photograph, not art. Do not send more than 12 of each (generals and admirals) for small nations or 30 of each for large nations. Check if the general/admiral is already in the game before sending the image.
+The name of the file must be formatted as: “Firstname_Lastname_Gen.png” for generals, and “Firstname_Lastname_Adm.png” for admirals.
+
+
+### Politicians ###
+Upload a portrait of the respective politician with a size of 156x210 pixels. Please crop it yourself. The picture must be a real photograph, not art.
+The name of the file must be formatted as: “Firstname_Lastname_Ideology.png”
+Use the generic ideology names from the Political Party Names and Popularities section.
+
+
+### Political Party Icons ###
+Political party icons just need to be a decent image of the logo. You can take it from google images or where ever you may find it. I’ll do the work cropping and converting it to the game.
+The name of the file must be formatted as: “TAG_party_name.png”
+TAG is the short 3 letter name for the nation, e.g. USA, TUR, PRC, etc. All spaces must be underscores.
+
+
+### Equipment Icons ###
+While not entirely necessary, it would help if you can find a side-view image of the respective equipment. If I am not given one, the item will be represented by the generic icon until I can get around to finding images myself. I would greatly appreciate it if you could help ease the burden by finding the images for me.
+Equipment icons must be formatted as: “TAG_YEAR_type.png”
+TAG is the short 3 letter name for the nation, e.g. USA, TUR, PRC, etc. YEAR is simply the year this equipment will be placed in. Type is any of those listed in the Vehicles and Equipment section. All spaces must be underscores.
+
+
+### Starting Navies ###
+This will be done my team and I once we are able to reset and rebalance the ships. If you know of an accurate Wikipedia article or reputable news/history site which contains a useful list of ships for a specific country, you may send it in the “ideas” channel on discord. For now, it will be saved and read later.
